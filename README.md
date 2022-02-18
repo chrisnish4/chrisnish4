@@ -1,3 +1,5 @@
+/header.png
+
 ### Hi there, I'm Chris 👋
 
 - 🔭 I’m currently working on Exploratory Analysis of NFT Market
