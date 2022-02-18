@@ -2,8 +2,8 @@
 
 ### A little about me ...
 
-- 🔭 I’m currently working on Exploratory Analysis of NFT Market
-- 🌱 I’m currently learning Rust
+- :writing_hand: I’m currently working on Exploratory Analysis of NFT Market
+- :potted_plant: I’m currently learning Rust
 - 😄 Pronouns: He/Him
 - :ocean: Fun fact: I like to surf 
 <!--
