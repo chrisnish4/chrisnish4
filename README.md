@@ -1,6 +1,6 @@
-/header.png
+![alt text](https://raw.github.com/chrisnish4/chrisnish4/main/header.png?raw=true)
 
-### Hi there, I'm Chris 👋
+### A little about me ...
 
 - 🔭 I’m currently working on Exploratory Analysis of NFT Market
 - 🌱 I’m currently learning Rust
