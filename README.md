@@ -1,5 +1,9 @@
-### Hi there I'm Chris👋
+### Hi there, I'm Chris 👋
 
+- 🔭 I’m currently working on Exploratory Analysis of NFT Market
+- 🌱 I’m currently learning Rust
+- 😄 Pronouns: He/Him
+- ::ocean:: Fun fact: I like to surf 
 <!--
 **chrisnish4/chrisnish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
