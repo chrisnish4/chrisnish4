@@ -9,7 +9,7 @@
 
 ## Projects
 - ### Data Analysis and Visualizations 
-  - [Ethereum NFT EDA]   
+  - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA):
 
 <!--
 **chrisnish4/chrisnish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
