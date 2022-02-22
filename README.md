@@ -9,7 +9,7 @@
 
 ## Projects
 - ### Data Analysis and Visualizations 
-  - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA):
+  - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA): Analysis of minting and transfer data of NFTs create on the Ethereum blockchain. Sought to find NFT projects with most rapidly increasing prices, found evidence of artificial price inflation.
 
 <!--
 **chrisnish4/chrisnish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
