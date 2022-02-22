@@ -7,6 +7,9 @@
 - 😄 Pronouns: He/Him
 - :ocean: Fun fact: I like to surf 
 
+## Stack
+![Python](https://raw.github.com/chrisnish4/chrisnish4/main/python.jpg?raw=true)
+
 ## Projects
 - ### Data Analysis and Visualizations 
   - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA): Analysis of minting and transfer data of NFTs create on the Ethereum blockchain. Sought to find NFT projects with most rapidly increasing prices, found evidence of artificial price inflation.
