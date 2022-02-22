@@ -6,6 +6,11 @@
 - :potted_plant: I’m currently learning Rust
 - 😄 Pronouns: He/Him
 - :ocean: Fun fact: I like to surf 
+
+## Projects
+- ### Data Analysis and Visualizations 
+  - [Ethereum NFT EDA]   
+
 <!--
 **chrisnish4/chrisnish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
