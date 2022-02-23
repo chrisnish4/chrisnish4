@@ -8,7 +8,7 @@
 - :ocean: Fun fact: I like to surf 
 
 ## Stack
-<div align='center'>
+<div align='left'>
 <img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/python-original.svg' alt='Python' height='50' /> 
 <img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg' alt='AWS' height='50' />
 <img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg' alt='GCS' height='50' />
