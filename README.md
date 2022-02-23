@@ -10,7 +10,11 @@
 ## Stack
 <div align='center'>
 <img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/python-original.svg' alt='Python' height='50' /> 
-<img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg' alt='Python' height='50' />
+<img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg' alt='AWS' height='50' />
+<img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg' alt='GCS' height='50' />
+<img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg' alt='HTML' height='50' />
+<img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg' alt='CSS' height='50' />
+<img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg' alt='Bootstrap' height='50' />
 </div>
 
 ## Projects
