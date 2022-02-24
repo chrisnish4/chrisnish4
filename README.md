@@ -10,6 +10,7 @@
 ## Stack
 <div align='left'>
 <img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/python-original.svg' alt='Python' height='50' /> 
+<img style='margin:10px' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinpng.com%2Fpicture%2Fhomihmh_sqlite-square-icon-sqlite-logo-hd-png-download%2F&psig=AOvVaw0jb8bXeTFk4vP0ei-UOYTW&ust=1645752187257000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCB9eaWl_YCFQAAAAAdAAAAABAD' alt='SQLite' height='50' /> 
 <img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg' alt='AWS' height='50' />
 <img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg' alt='GCS' height='50' />
 <img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg' alt='HTML' height='50' />
