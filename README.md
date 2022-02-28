@@ -2,7 +2,7 @@
 
 ### A little about me ...
 
-- :writing_hand: I’m currently working on Exploratory Analysis of NFT Market
+- :writing_hand: I’m currently working on Comparison of Binary Classifiers
 - :potted_plant: I’m currently learning Rust
 - 😄 Pronouns: He/Him
 - :ocean: Fun fact: I like to surf 
