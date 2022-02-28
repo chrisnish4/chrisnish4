@@ -22,6 +22,11 @@
 - ### Data Analysis and Visualizations 
   - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA): Analysis of minting and transfer data of NFTs create on the Ethereum blockchain. Sought to find NFT projects with most rapidly increasing prices, found evidence of artificial price inflation.
 
+- ### Classification 
+  - [Empirical Comparison of Binary Classifiers](https://github.com/chrisnish4/Empirical-Comparison-Supervised-Learning-): Performed binary classification using three algorithms (logistic regression, k nearest neighbor, and random forest) on three separate classification problems. I used accuracy score to evalute each of the methods and found that the random forest classifer performed the best on two out of the three tasks and KNN performed best on teh last one. Going forward, I would incorporate more error metrics suc as precision, recall, and F1 score.
+
+- 
+
 <!--
 **chrisnish4/chrisnish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
