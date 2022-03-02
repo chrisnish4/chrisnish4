@@ -23,6 +23,7 @@
   - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA): Analysis of minting and transfer data of NFTs create on the Ethereum blockchain. Sought to find NFT projects with most rapidly increasing prices, found evidence of artificial price inflation.
 
 - ### Classification 
+  - [Breast Cancer Prediction](https://github.com/chrisnish4/breast_cancer_pred): Comparing three different classification algorithms on breast cancer prediction dataset. Focused on recall/sensitivity as primary performance metric and tried to maximize recall/sensitivity. 
   - [Empirical Comparison of Binary Classifiers](https://github.com/chrisnish4/Empirical-Comparison-Supervised-Learning-): Performed binary classification using three algorithms (logistic regression, k nearest neighbor, and random forest) on three separate classification problems. I used accuracy score to evalute each of the methods. For two out of the three classification problems, the random forest algorithm performed the best. For the hand writing recognition task, k-nearest neighbors out performed the other models. Going forward, I would utilize more error metrics such as precision, recall, and F1 score and more diverse classification problems to highlight the importance in choosing an error metric that suits the problem at hand. 
 
 - ### Clustering
