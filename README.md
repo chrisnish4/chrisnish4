@@ -29,6 +29,9 @@
 - ### Clustering
   - [Police Stop Clustering](https://github.com/chrisnish4/Police_Stop_EDA): Performed various clustering algorithms (K-means and Gaussian Mixture Model) on police stop data. 
 
+- ### Algorithms from Scratch
+  - [Perceptron](https://github.com/chrisnish4/perceptron): Coded a perceptron from scratch to use on the Wisconsin Breast Cancer dataset. I was able to achieve a high level of accuracy, precision, and recall, however my scores would vary greatly depending on the value of the bias term. I plotted the bias term against the accuracy score it would produce to find the best value.
+
 <!--
 **chrisnish4/chrisnish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
