@@ -19,6 +19,8 @@
 </div>
 
 ## Projects
+- ### Currently Working on: 
+  - [NBA Player Acquisition Recommendations](https://github.com/chrisnish4/nba_player_acquisition_recommendation): The goal of this project is to isolate areas of the game where certain teams are lacking and recommend players that can help fill in their gaps. My plan for this project is to train a classifier on data from the 2014-2015 onward (Steph Curry Era) to identify teams that are able to make it to the second round of playoffs. After the classifier is trained and optimized I will input the team statistics from the current (2021-2022) season to determine if they are second round ready. Next I will cluster players using dimensionality reduction inspired by [this](https://www.google.com/search?q=nba+player+clustering&rlz=1C5CHFA_enUS892US892&oq=nba+player+clustering&aqs=chrome..69i57j35i39l2j46i67i131i433j69i60l4.2464j1j7&sourceid=chrome&ie=UTF-8) article, to group players into archetypes. Finally I will match current teams that were predicted to not make it to the second round and recommend the players that most fit their needs. I am currently optimizing the classifier to predict if a team will make it to the second round.
 - ### Data Analysis and Visualizations 
   - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA): Analysis of minting and transfer data of NFTs create on the Ethereum blockchain. Sought to find NFT projects with most rapidly increasing prices, found evidence of artificial price inflation.
 
