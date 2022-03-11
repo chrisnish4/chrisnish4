@@ -36,6 +36,7 @@
   - [Linear Regression](https://github.com/chrisnish4/linear_regression_scratch): The purpose of this notebook was to better my understanding of linear regression. I compared three different methods of linear regression: line of best fit equations, closed form derivatives, and gradient descent. I found that I was able to derive the line of best fit equations from the closed form optimization of the sum of squared errors derivative. I also found that optimizing with gradient descent resulted in the same parameter values as the two prior methods.
   - Want to do polynomial regression, logisitc regression, knn, decision trees, kmeans, GMM, PCA in the future.
 <!--
+for future reference: https://www.hackerrank.com/domains/ai?filters%5Bsubdomains%5D%5B%5D=machine-learning
 **chrisnish4/chrisnish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
