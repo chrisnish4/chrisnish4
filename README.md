@@ -33,6 +33,7 @@
 
 - ### Algorithms from Scratch
   - [Perceptron](https://github.com/chrisnish4/perceptron): Coded a perceptron from scratch to use on the Wisconsin Breast Cancer dataset. I was able to achieve a high level of accuracy, precision, and recall, however my scores would vary greatly depending on the value of the bias term. I plotted the bias term against the accuracy score it would produce to find the best value.
+  - [Linear Regression](https://github.com/chrisnish4/linear_regression_scratch): The purpose of this notebook was to better my understanding of linear regression. I compared three different methods of linear regression: line of best fit equations, closed form derivatives, and gradient descent. I found that I was able to derive the line of best fit equations from the closed form optimization of the sum of squared errors derivative. I also found that optimizing with gradient descent resulted in the same parameter values as the two prior methods.
 
 <!--
 **chrisnish4/chrisnish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
