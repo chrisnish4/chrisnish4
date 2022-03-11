@@ -26,9 +26,9 @@
   - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA): Analysis of minting and transfer data of NFTs create on the Ethereum blockchain. Sought to find NFT projects with most rapidly increasing prices, found evidence of artificial price inflation.
 
 - ### Algorithms from Scratch
-  - [Perceptron](https://github.com/chrisnish4/perceptron): Coded a perceptron from scratch to use on the Wisconsin Breast Cancer dataset. I was able to achieve a high level of accuracy, precision, and recall, however my scores would vary greatly depending on the value of the bias term. I plotted the bias term against the accuracy score it would produce to find the best value.
   - [Linear Regression](https://github.com/chrisnish4/linear_regression_scratch): The purpose of this notebook was to better my understanding of linear regression. I compared three different methods of linear regression: line of best fit equations, closed form derivatives, and gradient descent. I found that I was able to derive the line of best fit equations from the closed form optimization of the sum of squared errors derivative. I also found that optimizing with gradient descent resulted in the same parameter values as the two prior methods.
   - [K-Nearest Neighbors](https://github.com/chrisnish4/knn_scratch): I wanted to solidify my understanding of the k-nearest neighbors algorithm, so I created my own and compared the results to teh Sci-kit Learn KNeighborsClassifier on a simplified version of the Iris dataset. 
+  - [Perceptron](https://github.com/chrisnish4/perceptron): Coded a perceptron from scratch to use on the Wisconsin Breast Cancer dataset. I was able to achieve a high level of accuracy, precision, and recall, however my scores would vary greatly depending on the value of the bias term. I plotted the bias term against the accuracy score it would produce to find the best value.
   - Want to do polynomial regression, logisitc regression, decision trees, kmeans, GMM, PCA in the future.
 
 - ### Classification 
