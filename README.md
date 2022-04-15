@@ -5,7 +5,7 @@
 - :writing_hand: I’m currently working on revamping my project on clustering of NBA player data
 - :potted_plant: I’m currently learning Rust
 - 😄 Pronouns: He/Him
-- :ocean: Fun fact: I like to surf 
+- :ocean: Fun fact: I like to surf and play guitar
 
 ## Stack
 <div align='left'>
@@ -19,10 +19,9 @@
 </div>
 
 ## Projects
-- ### Currently Working on: 
-  - [NBA Player Acquisition Recommendations](https://github.com/chrisnish4/nba_player_acquisition_recommendation): The goal of this project is to isolate areas of the game where certain teams are lacking and recommend players that can help fill in their gaps. My plan for this project is to train a classifier on data from the 2014-2015 onward (Steph Curry Era) to identify teams that are able to make it to the second round of playoffs. After the classifier is trained and optimized I will input the team statistics from the current (2021-2022) season to determine if they are second round ready. Next I will cluster players using dimensionality reduction inspired by [this](https://www.google.com/search?q=nba+player+clustering&rlz=1C5CHFA_enUS892US892&oq=nba+player+clustering&aqs=chrome..69i57j35i39l2j46i67i131i433j69i60l4.2464j1j7&sourceid=chrome&ie=UTF-8) article, to group players into archetypes. Finally I will match current teams that were predicted to not make it to the second round and recommend the players that most fit their needs. I am currently optimizing the classifier to predict if a team will make it to the second round.
 
 - ### Data Analysis and Visualizations 
+  - [E-Commerce Transaction EDA] (https://github.com/chrisnish4/ecommerce_transactions): 
   - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA): With all the recent buzz about NFTs and lack of explanations I wanted to get a better sense of what was going on in the NFT market. The main question I sought to answer was: Which individual NFTs are growing in price the fastest? After analyzing the minting and transfer data of NFTs created on the Ethereum blockchain, I found the 10 NFTs with the highest price velocity (change in price over time). I found that 9 of the 10 NFTs sky rocketed in a matter of hours,and the other within the span of 4 days. I looked closer at the transaction history for each of these NFTs and found that 7 out of the 10 NFTs had been sold back to a previous owner, implying that these prices have been artificially inflated with a fabricated transaction history. 
 
 - ### Algorithms from Scratch
@@ -53,4 +52,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
+- ### Currently Working on: 
+  - [NBA Player Acquisition Recommendations](https://github.com/chrisnish4/nba_player_acquisition_recommendation): The goal of this project is to isolate areas of the game where certain teams are lacking and recommend players that can help fill in their gaps. My plan for this project is to train a classifier on data from the 2014-2015 onward (Steph Curry Era) to identify teams that are able to make it to the second round of playoffs. After the classifier is trained and optimized I will input the team statistics from the current (2021-2022) season to determine if they are second round ready. Next I will cluster players using dimensionality reduction inspired by [this](https://www.google.com/search?q=nba+player+clustering&rlz=1C5CHFA_enUS892US892&oq=nba+player+clustering&aqs=chrome..69i57j35i39l2j46i67i131i433j69i60l4.2464j1j7&sourceid=chrome&ie=UTF-8) article, to group players into archetypes. Finally I will match current teams that were predicted to not make it to the second round and recommend the players that most fit their needs. I am currently optimizing the classifier to predict if a team will make it to the second round.
 -->
