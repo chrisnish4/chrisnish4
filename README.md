@@ -21,7 +21,7 @@
 ## Projects
 
 - ### Data Analysis and Visualizations 
-  - [E-Commerce Transaction EDA](https://github.com/chrisnish4/ecommerce_transactions): 
+  - [E-Commerce Transaction EDA](https://github.com/chrisnish4/ecommerce_transactions): An exploratory data analysis of the transaction records of an e-commerce store using SQLite and dashboard creating with Tableau.
   - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA): With all the recent buzz about NFTs and lack of explanations I wanted to get a better sense of what was going on in the NFT market. The main question I sought to answer was: Which individual NFTs are growing in price the fastest? After analyzing the minting and transfer data of NFTs created on the Ethereum blockchain, I found the 10 NFTs with the highest price velocity (change in price over time). I found that 9 of the 10 NFTs sky rocketed in a matter of hours,and the other within the span of 4 days. I looked closer at the transaction history for each of these NFTs and found that 7 out of the 10 NFTs had been sold back to a previous owner, implying that these prices have been artificially inflated with a fabricated transaction history. 
 
 - ### Algorithms from Scratch
