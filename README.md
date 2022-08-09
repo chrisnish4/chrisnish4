@@ -2,7 +2,7 @@
 
 ### A little about me ...
 
-- :writing_hand: I’m currently working on revamping my project on clustering of NBA player data
+- :writing_hand: I’m currently working on a project on the books banned in the US
 - :potted_plant: I’m currently learning Rust
 - 😄 Pronouns: He/Him
 - :ocean: Fun fact: I like to surf and play guitar
