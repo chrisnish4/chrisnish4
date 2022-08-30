@@ -2,8 +2,8 @@
 
 ### A little about me ...
 
-- :writing_hand: I’m currently working on a project on the books banned in the US
-- :potted_plant: I’m currently learning Rust
+- :writing_hand: I’m currently working on a project analyzing police stop data
+- :potted_plant: --
 - 😄 Pronouns: He/Him
 - :ocean: Fun fact: I like to surf and play guitar
 
