@@ -20,23 +20,6 @@
 
 ## Projects
 
-- ### Data Analysis and Visualizations 
-  - [E-Commerce Transaction EDA](https://github.com/chrisnish4/ecommerce_transactions): An exploratory data analysis of the transaction records of an e-commerce store using SQLite and dashboard creating with Tableau.
-  - [Ethereum NFT EDA](https://github.com/chrisnish4/ethereum_NFT_EDA): With all the recent buzz about NFTs and lack of explanations I wanted to get a better sense of what was going on in the NFT market. The main question I sought to answer was: Which individual NFTs are growing in price the fastest? After analyzing the minting and transfer data of NFTs created on the Ethereum blockchain, I found the 10 NFTs with the highest price velocity (change in price over time). I found that 9 of the 10 NFTs sky rocketed in a matter of hours,and the other within the span of 4 days. I looked closer at the transaction history for each of these NFTs and found that 7 out of the 10 NFTs had been sold back to a previous owner, implying that these prices have been artificially inflated with a fabricated transaction history. 
-
-- ### Algorithms from Scratch
-  - [Linear Regression](https://github.com/chrisnish4/linear_regression_scratch): The purpose of this notebook was to better my understanding of linear regression. I compared three different methods of linear regression: line of best fit equations, closed form derivatives, and gradient descent. I found that I was able to derive the line of best fit equations from the closed form optimization of the sum of squared errors derivative. I also found that optimizing with gradient descent resulted in the same parameter values as the two prior methods.
-  - [K-Nearest Neighbors](https://github.com/chrisnish4/knn_scratch): I wanted to solidify my understanding of the k-nearest neighbors algorithm, so I created my own and compared the results to teh Sci-kit Learn KNeighborsClassifier on a simplified version of the Iris dataset. 
-  - [Perceptron](https://github.com/chrisnish4/perceptron): Coded a perceptron from scratch to use on the Wisconsin Breast Cancer dataset. I was able to achieve a high level of accuracy, precision, and recall, however my scores would vary greatly depending on the value of the bias term. I plotted the bias term against the accuracy score it would produce to find the best value.
-  - Want to do polynomial regression, logisitic regression, decision trees, kmeans, GMM, PCA in the future.
-
-- ### Classification 
-  - [Breast Cancer Prediction](https://github.com/chrisnish4/breast_cancer_pred): Comparing three different classification algorithms on breast cancer prediction dataset. Focused on recall/sensitivity as primary performance metric and tried to maximize recall/sensitivity. 
-  - [Empirical Comparison of Binary Classifiers](https://github.com/chrisnish4/Empirical-Comparison-Supervised-Learning-): Performed binary classification using three algorithms (logistic regression, k nearest neighbor, and random forest) on three separate classification problems. I used accuracy score to evalute each of the methods. For two out of the three classification problems, the random forest algorithm performed the best. For the hand writing recognition task, k-nearest neighbors out performed the other models. Going forward, I would utilize more error metrics such as precision, recall, and F1 score and more diverse classification problems to highlight the importance in choosing an error metric that suits the problem at hand. 
-
-- ### Clustering
-  - [Police Stop Clustering](https://github.com/chrisnish4/Police_Stop_EDA): Performed various clustering algorithms (K-means and Gaussian Mixture Model) on police stop data. 
-
 
 <!--
 for future reference: https://www.hackerrank.com/domains/ai?filters%5Bsubdomains%5D%5B%5D=machine-learning
