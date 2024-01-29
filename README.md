@@ -2,12 +2,10 @@
 
 ### A little about me ...
 
-- :writing_hand: I’m currently working on a project analyzing police stop data
-- :potted_plant: --
 - 😄 Pronouns: He/Him
 - :ocean: Fun fact: I like to surf and play guitar
 
-## Stack
+<!--## Stack
 <div align='left'>
 <img style='margin:10px' src='https://profilinator.rishav.dev/skills-assets/python-original.svg' alt='Python' height='50' /> 
 <img style='margin:10px' src='https://www.pinpng.com/pngs/m/561-5614152_sqlite-square-icon-sqlite-logo-hd-png-download.png' alt='SQLite' height='50' /> 
@@ -19,7 +17,7 @@
 </div>
 
 ## Projects
-
+-->
 
 <!--
 for future reference: https://www.hackerrank.com/domains/ai?filters%5Bsubdomains%5D%5B%5D=machine-learning
